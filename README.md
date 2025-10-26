@@ -47,9 +47,13 @@
 ### 🧠 My Current Goals
 
 🔹 Deepen my understanding of AI fundamentals and their real-world applications
+
 🔹 Learn and experiment with Generative AI and Agentic AI technologies
+
 🔹 Build innovative AI-powered applications and intelligent automation tools
+
 🔹 Contribute actively to open-source projects and strengthen my GitHub portfolio
+
 🔹 Engage with tech communities, participate in hackathons and attend conferences to grow and collaborate 
 
 ---
