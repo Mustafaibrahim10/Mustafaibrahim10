@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 
 <h1 align="center">Hi 👋, I am Mustafa Ibrahim</h1>
-<h3 align="center"> 🤖 AI Engineer | ML | NLP </h3>
+<h3 align="center"> 🤖 AI Engineer | Machine Learning | Natural Language Processing | Deep Learning </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="250" />
@@ -12,8 +12,8 @@
 ### 📌 About Me
 
 - 🎓 I'm currently pursuing **BS in Computer Science** at **Lahore Garrison University**
-- 🔍 Exploring the world of **Artificial Intelligence & Machine Learning**
-- 🤝 I’m open to collaborating on **AI/ML projects**, prototypes and open-source tools
+- 🔍 Exploring the world of **Artificial Intelligence**
+- 🤝 I’m open to collaborating on **AI/ML projects** and open-source tools
 - ⚡ Fun fact: I never stop learning and love experimenting with new tech stacks 🚀
 
 ---
@@ -46,10 +46,11 @@
 
 ### 🧠 My Current Goals
 
-- 🔹 Master core AI/ML concepts & real-world implementations  
-- 🔹 Develop **AI-powered Applications** and intelligent tools  
-- 🔹 Contribute to **Open-source Projects** and grow my GitHub presence  
-- 🔹 Join tech communities, attend hackathons & AI conferences  
+🔹 Deepen my understanding of AI fundamentals and their real-world applications
+🔹 Learn and experiment with Generative AI and Agentic AI technologies
+🔹 Build innovative AI-powered applications and intelligent automation tools
+🔹 Contribute actively to open-source projects and strengthen my GitHub portfolio
+🔹 Engage with tech communities, participate in hackathons and attend conferences to grow and collaborate 
 
 ---
 
