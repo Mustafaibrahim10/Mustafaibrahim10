@@ -1,7 +1,7 @@
 <!-- Profile Banner -->
 
-<h1 align="center">Hi 👋, I'm Mustafa Ibrahim</h1>
-<h3 align="center">💻 Computer Science Student | 🤖 Future AI Engineer | 🧠 Blockchain Enthusiast</h3>
+<h1 align="center">Hi 👋, I am Mustafa Ibrahim</h1>
+<h3 align="center"> 🤖 AI Engineer | ML | NLP </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="250" />
@@ -12,8 +12,8 @@
 ### 📌 About Me
 
 - 🎓 I'm currently pursuing **BS in Computer Science** at **Lahore Garrison University**
-- 🔍 Exploring the exciting world of **Artificial Intelligence & Machine Learning**
-- 🤝 I’m open to collaborating on **AI/ML projects**, prototypes, and open-source tools
+- 🔍 Exploring the world of **Artificial Intelligence & Machine Learning**
+- 🤝 I’m open to collaborating on **AI/ML projects**, prototypes and open-source tools
 - ⚡ Fun fact: I never stop learning and love experimenting with new tech stacks 🚀
 
 ---
@@ -30,16 +30,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafaibrahim00&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafaibrahim00&theme=tokyonight" width="48%" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -57,8 +47,8 @@
 ### 🧠 My Current Goals
 
 - 🔹 Master core AI/ML concepts & real-world implementations  
-- 🔹 Develop **AI-powered games** and intelligent tools  
-- 🔹 Contribute to **open-source projects** and grow my GitHub presence  
+- 🔹 Develop **AI-powered Applications** and intelligent tools  
+- 🔹 Contribute to **Open-source Projects** and grow my GitHub presence  
 - 🔹 Join tech communities, attend hackathons & AI conferences  
 
 ---
